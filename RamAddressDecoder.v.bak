@@ -1,0 +1,23 @@
+/******************************************************************
+* Description
+*	This performs a shift left opeartion in roder to calculate the brances.
+*	1.0
+* Author:
+*	Dr. José Luis Pizano Escalante
+* email:
+*	luispizano@iteso.mx
+* Date:
+*	01/03/2014
+******************************************************************/
+module RamAddressDecoder 
+(   
+	input [25:0]  Address,
+	input [31:0] PC_4,
+   output reg [31:0] JumpAddress
+
+);
+   always @ (*)
+     JumpAddress = {PC_4[31:28], Address, 2'b0};
+
+endmodule 
+// leftshift2//

@@ -1,0 +1,202 @@
+{C:/Users/luisb/MIPS Processor/Mips/Control.v} {2 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Control
+** Warning: C:/Users/luisb/MIPS Processor/Mips/Control.v(46): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/luisb/MIPS Processor/Mips/Control.v(47): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/ProgramMemory.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/ProgramMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Multiplexer2to1.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Multiplexer2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/HazardDetectionUnit.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/HazardDetectionUnit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HazardDetectionUnit
+
+Top level modules:
+	HazardDetectionUnit
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/ALU.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/ForwardingUnit.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/ForwardingUnit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Register_MEM_WB.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Register_MEM_WB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Register_MEM_WB
+
+Top level modules:
+	Register_MEM_WB
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/RamAddressDecoder.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/RamAddressDecoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RamAddressDecoder
+
+Top level modules:
+	RamAddressDecoder
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/RegisterFile.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/RegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Register.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor_TB.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/PC_Register.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/PC_Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Register_EX_MEM.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Register_EX_MEM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Register_EX_MEM
+
+Top level modules:
+	Register_EX_MEM
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Adder32bits.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Adder32bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Equal.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Equal.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Equal
+
+Top level modules:
+	Equal
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/JumpAddressDecoder.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/JumpAddressDecoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module JumpAddressDecoder
+
+Top level modules:
+	JumpAddressDecoder
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/SignExtend.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/SignExtend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/ORGate.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/ORGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ORGate
+
+Top level modules:
+	ORGate
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/DataMemory.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/DataMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/ALUControl.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/ALUControl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/ShiftLeft2.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/ShiftLeft2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Multiplexer3to2.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Multiplexer3to2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Multiplexer3to2
+
+Top level modules:
+	Multiplexer3to2
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/DecoderRegisterFile.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/DecoderRegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/ANDGate.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/ANDGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Definitions.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Definitions.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Register_ID_EX.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Register_ID_EX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Register_ID_EX
+
+Top level modules:
+	Register_ID_EX
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/Register_IF_ID.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/Register_IF_ID.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Register_IF_ID
+
+Top level modules:
+	Register_IF_ID
+
+} {} {}} {C:/Users/luisb/MIPS Processor/Mips/MUXRegisterFile.v} {1 {vlog -work work -stats=none {C:/Users/luisb/MIPS Processor/Mips/MUXRegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}}

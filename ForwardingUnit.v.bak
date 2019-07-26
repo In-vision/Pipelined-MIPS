@@ -1,0 +1,21 @@
+module ForwardingUnit
+(
+	/* ---------------------- INPUTS ----------------------*/
+
+	input clk,
+	input reset,
+	
+	input [4:0]	idEx_RegDestAddress1,
+	input [4:0] idEx_RegOperandRS,
+	input [4:0] exMem_RegisterRd,
+	input [31:0]exMem_AluOutput,
+	input [4:0] memWB_RegisterRd,
+	input  		memWB_RegWrite,
+	
+	
+	
+	
+	/* ---------------------- OUTPUTS ----------------------*/
+);
+
+endmodule

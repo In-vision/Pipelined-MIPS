@@ -1,0 +1,626 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/BasicMIPSProcessor_Verano2019
+vAdder32bits
+Z0 !s110 1564154677
+!i10b 1
+!s100 3U=[?g:4MO5>WBI9hQF;b3
+IVS3WXK60>l>^]dCbEld@=3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/luisb/MIPS Processor/Mips
+Z3 w1563985889
+8C:/Users/luisb/MIPS Processor/Mips/Adder32bits.v
+FC:/Users/luisb/MIPS Processor/Mips/Adder32bits.v
+Z4 L0 13
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1564154677.000000
+!s107 C:/Users/luisb/MIPS Processor/Mips/Adder32bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Adder32bits.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder32bits
+vALU
+R0
+!i10b 1
+!s100 AdBTCz3ca3Kk5<gk]km5Z2
+INi:HYDNGbRJDIPm6DNFhf0
+R1
+R2
+w1564074550
+8C:/Users/luisb/MIPS Processor/Mips/ALU.v
+FC:/Users/luisb/MIPS Processor/Mips/ALU.v
+L0 20
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/luisb/MIPS Processor/Mips/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/ALU.v|
+!i113 1
+R7
+R8
+n@a@l@u
+vALUControl
+Z9 !s110 1564154678
+!i10b 1
+!s100 I8hGAgD5;DECfoFg4eRN52
+I:eN]@mcmI1R4JFO0`l;AV3
+R1
+R2
+w1564007884
+8C:/Users/luisb/MIPS Processor/Mips/ALUControl.v
+FC:/Users/luisb/MIPS Processor/Mips/ALUControl.v
+Z10 L0 15
+R5
+r1
+!s85 0
+31
+Z11 !s108 1564154678.000000
+!s107 C:/Users/luisb/MIPS Processor/Mips/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/ALUControl.v|
+!i113 1
+R7
+R8
+n@a@l@u@control
+vANDGate
+R9
+!i10b 1
+!s100 YWNiD5lh8k834MUG>aUI;2
+I5EcnCP1QJSm@eEHNg=JeZ0
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/ANDGate.v
+FC:/Users/luisb/MIPS Processor/Mips/ANDGate.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/luisb/MIPS Processor/Mips/ANDGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/ANDGate.v|
+!i113 1
+R7
+R8
+n@a@n@d@gate
+vControl
+R9
+!i10b 1
+!s100 V6Yb;C^`K_HAN4VFQE7Ye0
+I0d9U^z`ZH_DRo^2T:<I7m0
+R1
+R2
+w1564074901
+8C:/Users/luisb/MIPS Processor/Mips/Control.v
+FC:/Users/luisb/MIPS Processor/Mips/Control.v
+Z12 L0 16
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/luisb/MIPS Processor/Mips/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Control.v|
+!i113 1
+R7
+R8
+n@control
+vDataMemory
+R9
+!i10b 1
+!s100 R2AjHH154Oii0S2A>1RzD0
+I<WA7JhjoX7o_fMYkY6^HS2
+R1
+R2
+w1564083147
+8C:/Users/luisb/MIPS Processor/Mips/DataMemory.v
+FC:/Users/luisb/MIPS Processor/Mips/DataMemory.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/luisb/MIPS Processor/Mips/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/DataMemory.v|
+!i113 1
+R7
+R8
+n@data@memory
+vDecoderRegisterFile
+R9
+!i10b 1
+!s100 Ad>CR]NF5O_Ym88bU[JBD2
+I5Bzlkn8zS`K9WBJTb^[E:0
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/DecoderRegisterFile.v
+FC:/Users/luisb/MIPS Processor/Mips/DecoderRegisterFile.v
+Z13 L0 12
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/luisb/MIPS Processor/Mips/DecoderRegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/DecoderRegisterFile.v|
+!i113 1
+R7
+R8
+n@decoder@register@file
+vEqual
+Z14 !s110 1564154679
+!i10b 1
+!s100 l2BRg?glWlQfFL7nnL4fW3
+If;I`XZ03F[<HMo1Ia=@;f0
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/Equal.v
+FC:/Users/luisb/MIPS Processor/Mips/Equal.v
+L0 1
+R5
+r1
+!s85 0
+31
+Z15 !s108 1564154679.000000
+!s107 C:/Users/luisb/MIPS Processor/Mips/Equal.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Equal.v|
+!i113 1
+R7
+R8
+n@equal
+vForwardingUnit
+R14
+!i10b 1
+!s100 9V_N^`m1V?Pm>0YUHYR_J0
+IEA5Bn^`@k[lcNXcW6^G852
+R1
+R2
+w1564083116
+8C:/Users/luisb/MIPS Processor/Mips/ForwardingUnit.v
+FC:/Users/luisb/MIPS Processor/Mips/ForwardingUnit.v
+L0 1
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/luisb/MIPS Processor/Mips/ForwardingUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/ForwardingUnit.v|
+!i113 1
+R7
+R8
+n@forwarding@unit
+vHazardDetectionUnit
+R14
+!i10b 1
+!s100 VF4lYUNLn0O3oI2Fh?5_[3
+Ij?:1[S<8oW8WW_ok3`Qz90
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/HazardDetectionUnit.v
+FC:/Users/luisb/MIPS Processor/Mips/HazardDetectionUnit.v
+L0 1
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/luisb/MIPS Processor/Mips/HazardDetectionUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/HazardDetectionUnit.v|
+!i113 1
+R7
+R8
+n@hazard@detection@unit
+vJumpAddressDecoder
+R14
+!i10b 1
+!s100 B20Hmle3:VRAj[;^F3zQ51
+I`O0KEc:`eE?AjCQ3<<9?e3
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/JumpAddressDecoder.v
+FC:/Users/luisb/MIPS Processor/Mips/JumpAddressDecoder.v
+R12
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/luisb/MIPS Processor/Mips/JumpAddressDecoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/JumpAddressDecoder.v|
+!i113 1
+R7
+R8
+n@jump@address@decoder
+vMIPS_Processor
+R14
+!i10b 1
+!s100 o@J<`@a6a?S]hGFXYV4Fn3
+I?ACJ=SKZQ=9m_oJCAFE2W0
+R1
+R2
+w1564154622
+8C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor.v
+FC:/Users/luisb/MIPS Processor/Mips/MIPS_Processor.v
+Z16 L0 11
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor.v|
+!i113 1
+R7
+R8
+n@m@i@p@s_@processor
+vMIPS_Processor_TB
+R14
+!i10b 1
+!s100 93:RClE5YGZRK?HHmQNoS0
+Ii5PLeHZCifa:dj87`j7PY1
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor_TB.v
+FC:/Users/luisb/MIPS Processor/Mips/MIPS_Processor_TB.v
+R10
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/MIPS_Processor_TB.v|
+!i113 1
+R7
+R8
+n@m@i@p@s_@processor_@t@b
+vMultiplexer2to1
+Z17 !s110 1564154680
+!i10b 1
+!s100 :0AQ<2eCF2hQ9HmcCl[A=2
+IN6>OV^[TY?fk[90Wa:AAP2
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/Multiplexer2to1.v
+FC:/Users/luisb/MIPS Processor/Mips/Multiplexer2to1.v
+R4
+R5
+r1
+!s85 0
+31
+Z18 !s108 1564154680.000000
+!s107 C:/Users/luisb/MIPS Processor/Mips/Multiplexer2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Multiplexer2to1.v|
+!i113 1
+R7
+R8
+n@multiplexer2to1
+vMultiplexer3to2
+R17
+!i10b 1
+!s100 E>hgFUz[fdZSeSm9j2P^L3
+I033^U?5jCLeol@@MQoO^m3
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/Multiplexer3to2.v
+FC:/Users/luisb/MIPS Processor/Mips/Multiplexer3to2.v
+R16
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/luisb/MIPS Processor/Mips/Multiplexer3to2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Multiplexer3to2.v|
+!i113 1
+R7
+R8
+n@multiplexer3to2
+vMUXRegisterFile
+R17
+!i10b 1
+!s100 ilEfF9<1^1zad2?6oWhKm0
+I1VWlggm]W9eDQf]TQfPng0
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/MUXRegisterFile.v
+FC:/Users/luisb/MIPS Processor/Mips/MUXRegisterFile.v
+L0 2
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/luisb/MIPS Processor/Mips/MUXRegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/MUXRegisterFile.v|
+!i113 1
+R7
+R8
+n@m@u@x@register@file
+vORGate
+R17
+!i10b 1
+!s100 `@`0V2e7T1LELi9HQ3Lbc1
+I6fNzETo]Q?Oz>IbYVXECk2
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/ORGate.v
+FC:/Users/luisb/MIPS Processor/Mips/ORGate.v
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/luisb/MIPS Processor/Mips/ORGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/ORGate.v|
+!i113 1
+R7
+R8
+n@o@r@gate
+vPC_Register
+R17
+!i10b 1
+!s100 Kz3V51`A>@2_CBZ01dbN13
+IRKe@RZWOTO=L`RlfTbb=A2
+R1
+R2
+w1563998899
+8C:/Users/luisb/MIPS Processor/Mips/PC_Register.v
+FC:/Users/luisb/MIPS Processor/Mips/PC_Register.v
+R10
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/luisb/MIPS Processor/Mips/PC_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/PC_Register.v|
+!i113 1
+R7
+R8
+n@p@c_@register
+vProgramMemory
+Z19 !s110 1564154681
+!i10b 1
+!s100 EKMLdBMR=9Ye=flNf;O>03
+I?dL:nd^5NE:VeDf2^:b1h0
+R1
+R2
+w1564008435
+8C:/Users/luisb/MIPS Processor/Mips/ProgramMemory.v
+FC:/Users/luisb/MIPS Processor/Mips/ProgramMemory.v
+R10
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/luisb/MIPS Processor/Mips/ProgramMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/ProgramMemory.v|
+!i113 1
+R7
+R8
+n@program@memory
+vRamAddressDecoder
+R19
+!i10b 1
+!s100 1C@9`?n=[mS;ilZI54U[23
+IAa>CPUG;>S^RI24m?m>X[1
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/RamAddressDecoder.v
+FC:/Users/luisb/MIPS Processor/Mips/RamAddressDecoder.v
+Z20 L0 14
+R5
+r1
+!s85 0
+31
+Z21 !s108 1564154681.000000
+!s107 C:/Users/luisb/MIPS Processor/Mips/RamAddressDecoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/RamAddressDecoder.v|
+!i113 1
+R7
+R8
+n@ram@address@decoder
+vRegister
+R19
+!i10b 1
+!s100 gaa2_=EFlJ3fJLn9_R7>F2
+I9<3Adka3`[@J230:@zkzc2
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/Register.v
+FC:/Users/luisb/MIPS Processor/Mips/Register.v
+R13
+R5
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/luisb/MIPS Processor/Mips/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Register.v|
+!i113 1
+R7
+R8
+n@register
+vRegister_EX_MEM
+R19
+!i10b 1
+!s100 6gn3z>5HdSMz[V^m2aJ?o0
+IWOPSn6`Wa=[CfTK7Tfgin1
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/Register_EX_MEM.v
+FC:/Users/luisb/MIPS Processor/Mips/Register_EX_MEM.v
+L0 1
+R5
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/luisb/MIPS Processor/Mips/Register_EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Register_EX_MEM.v|
+!i113 1
+R7
+R8
+n@register_@e@x_@m@e@m
+vRegister_ID_EX
+R19
+!i10b 1
+!s100 Im?7HzMF<0LWb=jgmkDCJ3
+I9SW2HHoMiH<X0ARFTHi0^2
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/Register_ID_EX.v
+FC:/Users/luisb/MIPS Processor/Mips/Register_ID_EX.v
+L0 1
+R5
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/luisb/MIPS Processor/Mips/Register_ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Register_ID_EX.v|
+!i113 1
+R7
+R8
+n@register_@i@d_@e@x
+vRegister_IF_ID
+Z22 !s110 1564154682
+!i10b 1
+!s100 zLDZicLLPJT]h=GVe6cBd2
+I_DTPDHKDMTg??9JfST_]O0
+R1
+R2
+w1563999240
+8C:/Users/luisb/MIPS Processor/Mips/Register_IF_ID.v
+FC:/Users/luisb/MIPS Processor/Mips/Register_IF_ID.v
+L0 2
+R5
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/luisb/MIPS Processor/Mips/Register_IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Register_IF_ID.v|
+!i113 1
+R7
+R8
+n@register_@i@f_@i@d
+vRegister_MEM_WB
+R22
+!i10b 1
+!s100 zZjn]oWCPbj_K1GEFO_Nj3
+Ife3:V<<2J^2MfcB6;9[Ra3
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/Register_MEM_WB.v
+FC:/Users/luisb/MIPS Processor/Mips/Register_MEM_WB.v
+L0 1
+R5
+r1
+!s85 0
+31
+Z23 !s108 1564154682.000000
+!s107 C:/Users/luisb/MIPS Processor/Mips/Register_MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/Register_MEM_WB.v|
+!i113 1
+R7
+R8
+n@register_@m@e@m_@w@b
+vRegisterFile
+R22
+!i10b 1
+!s100 ;_boc`A71hhGl<b4=C[aL1
+IS:Uha]fnYDZOLc_ScKzB@3
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/RegisterFile.v
+FC:/Users/luisb/MIPS Processor/Mips/RegisterFile.v
+R10
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/luisb/MIPS Processor/Mips/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/RegisterFile.v|
+!i113 1
+R7
+R8
+n@register@file
+vShiftLeft2
+R22
+!i10b 1
+!s100 zg5E]B0=C<dzU9iHcFVNe1
+Iz864a4OQ]<Uj=>nZ<fBcP0
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/ShiftLeft2.v
+FC:/Users/luisb/MIPS Processor/Mips/ShiftLeft2.v
+R13
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/luisb/MIPS Processor/Mips/ShiftLeft2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/ShiftLeft2.v|
+!i113 1
+R7
+R8
+n@shift@left2
+vSignExtend
+R22
+!i10b 1
+!s100 WLI_^QJBA[:NK9[ChcEd32
+IWheV2W8?c9bj8j8^jdghm0
+R1
+R2
+R3
+8C:/Users/luisb/MIPS Processor/Mips/SignExtend.v
+FC:/Users/luisb/MIPS Processor/Mips/SignExtend.v
+R20
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/luisb/MIPS Processor/Mips/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/luisb/MIPS Processor/Mips/SignExtend.v|
+!i113 1
+R7
+R8
+n@sign@extend

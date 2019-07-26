@@ -1,0 +1,11 @@
+C:/BasicMIPSProcessor_Verano2019/MIPS_Processor_TB.v {1 {vlog -work work -stats=none C:/BasicMIPSProcessor_Verano2019/MIPS_Processor_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} C:/BasicMIPSProcessor_Verano2019/Definitions.v {1 {vlog -work work -stats=none C:/BasicMIPSProcessor_Verano2019/Definitions.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}}
